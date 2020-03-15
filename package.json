@@ -1,0 +1,16 @@
+{
+  "name": "backend_test",
+  "version": "1.0.0",
+  "description": "Cermati Backend Test for Promo Scraping",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.2",
+    "nightmare": "^3.0.2"
+  }
+}
